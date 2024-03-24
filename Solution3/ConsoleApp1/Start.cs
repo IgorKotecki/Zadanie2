@@ -24,5 +24,9 @@ class Start
         l.loadTheCargo(101);
         l.loadTheCargo(1);
         Console.WriteLine(l.loadMass);
+
+        coolingContainer c = new coolingContainer();
+        
+        
     }
 }
